@@ -17,7 +17,7 @@ body{
  font-size: 32px;
  font-family: 'Sigmar One', cursive;
 
-  left: 30%;
+  left: 37%;
 }
 ul {
   list-style-type: none;
@@ -183,7 +183,7 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 }
-.so{
+/* .so{
 
 display: flex;
 flex-direction: row;
@@ -198,7 +198,8 @@ margin:25px ;
 .contact h1{
 font-family: 'Sigmar One', cursive;
 
-}
+} */
+
 
 
 input[type=text], select, textarea {
@@ -226,7 +227,7 @@ label{
   cursor: pointer;
 } */
 .btn2{
-  margin-left: 160px;
+  margin-left: 0px;
   height: fit-content;
   width: fit-content;
   font-size: 20px;
@@ -281,7 +282,7 @@ label{
   border-radius: 4px;
   background-color: aqua;
   cursor: pointer;
-  margin-top: 105px;
+  margin-top: 0px;
 
 }
 
