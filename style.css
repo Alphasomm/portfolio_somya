@@ -103,7 +103,7 @@ h1{
   justify-content: center;
 
   align-items: center;
-  /* border: 1px solid rgb(185, 108, 108); */
+ 
 }
 #dp{
   
@@ -145,7 +145,7 @@ padding: 30px;
   border-radius: 20px;
   margin: 10px;
   box-shadow: 11px 10px rgb(180, 148, 148);
-  /* box-shadow: 11px 10px rgb(92, 76, 76); */
+ 
 
 }
 .cards h1{
@@ -183,23 +183,6 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 }
-/* .so{
-
-display: flex;
-flex-direction: row;
-
-}
-.s_icon{
-width: 50px;
-height: 50px;
-margin:25px ;
-
-}
-.contact h1{
-font-family: 'Sigmar One', cursive;
-
-} */
-
 
 
 input[type=text], select, textarea {
@@ -218,14 +201,7 @@ label{
   font-size: 20px;
 }
 
-/* input[type=submit] {
-  background-color: #04AA6D;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-} */
+
 .btn2{
   margin-left: 0px;
   height: fit-content;
