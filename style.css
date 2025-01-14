@@ -232,6 +232,16 @@ label{
   margin-top: 40px;
   box-shadow: 11px 10px rgb(180, 148, 148)
 }
+.so .s_icon {
+  font-size: 30px; 
+  margin: 10px; 
+  transition: transform 0.2s; 
+}
+
+.so .s_icon:hover {
+  transform: scale(1.2); 
+  color: #0077b5; 
+}
 
 
 /* BUTTONS  */
@@ -319,7 +329,4 @@ btn_a:hover{
     margin-top: 80px;
     padding: auto;
   }
-    
- 
-  
 }
